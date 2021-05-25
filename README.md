@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorenzo5051
-- 👀 I’m interested in ... Videogames, Musica and Movies
-- 🌱 I’m currently learning ... Web Development and SQL
-- 📫 How to reach me ... linkedin.com/in/lorenzo-gerardo-lizano-alpízar-091661121
+- 👀 I’m interested in Videogames, Musica and Movies
+- 🌱 I’m currently learning Web Development and SQL
+- 📫 How to reach me linkedin.com/in/lorenzo-gerardo-lizano-alpízar-091661121
 
 <!---
 Lorenzo5051/Lorenzo5051 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
