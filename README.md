@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorenzo5051
-- 👀 I’m interested in Videogames, Musica and Movies
+- 👀 I’m interested in Videogames, Music and Movies
 - 🌱 I’m currently learning Web Development and SQL
 - 📫 How to reach me linkedin.com/in/lorenzo-gerardo-lizano-alpízar-091661121
 
