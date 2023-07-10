@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lorenzo5051
 - 👀 I’m interested in Videogames, Music and Movies
-- 🌱 I’m currently learning Web Development and SQL
+- 🌱 Developer in Intel focus on .NET and SQL
 - 📫 How to reach me linkedin.com/in/lorenzo-gerardo-lizano-alpízar-091661121
 
 <!---
